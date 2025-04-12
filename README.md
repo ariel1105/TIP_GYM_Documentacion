@@ -2,7 +2,7 @@
 <p align="center">
   <img src="LogoSyncSpace.jpg" alt="GymApp Logo" width="200"/>
 </p>
-**SyncSpace** es una aplicación móvil en desarrollo diseñada para gestionar turnos, suscripciones y actividades en gimnasios. Pensada para facilitar la experiencia tanto de los socios como del personal administrativo, permite organizar clases, registrar usuarios y administrar la asistencia a actividades como Crossfit, Yoga, Funcional y muchas más.
+SyncSpace es una aplicación móvil en desarrollo diseñada para gestionar turnos, suscripciones y actividades en gimnasios. Pensada para facilitar la experiencia tanto de los socios como del personal administrativo, permite organizar clases, registrar usuarios y administrar la asistencia a actividades como Crossfit, Yoga, Funcional y muchas más.
 
 ## 🎯 Objetivos
 
