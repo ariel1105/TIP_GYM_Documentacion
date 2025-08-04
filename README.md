@@ -11,3 +11,8 @@ SyncSpace es una aplicación móvil en desarrollo diseñada para gestionar turno
 - Administrar múltiples actividades y sus respectivos cupos.
 - Evitar sobrecupos en las clases y llevar un control claro de los registros.
 - Proveer una experiencia simple, rápida y móvil para los usuarios.
+  
+## 📂 Repositorios
+ 🧠 [Backend](https://github.com/ariel1105/TIP_GYM_Backend)
+
+ 🎨 [Frontend](https://github.com/ariel1105/TIP_GYM_Frontend)
