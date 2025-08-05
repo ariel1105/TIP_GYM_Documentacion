@@ -16,3 +16,5 @@ SyncSpace es una aplicación móvil en desarrollo diseñada para gestionar turno
  🧠 [Backend](https://github.com/ariel1105/TIP_GYM_Backend)
 
  🎨 [Frontend](https://github.com/ariel1105/TIP_GYM_Frontend)
+ 
+ 🤖 [Reconocimiento facial (Python + OpenCV)](https://github.com/scamipia/login-facial-tip)
